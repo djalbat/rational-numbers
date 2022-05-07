@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/djalbat/rational-numbers",
+  "dependencies": [
+    "natural-numbers",
+    "number-types",
+    "arithmetic",
+    "integers"
+  ]
+}
