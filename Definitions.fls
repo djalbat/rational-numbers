@@ -1,19 +1,12 @@
 Constructor Integer/Integer:RationalNumber
 
-Type NonZeroInteger
+Type NonZeroInteger:Integer
 
 Variables p,q:RationalNumber
 
-Axiom (RationalNumbersAreIntegersDividedByNonZeroIntegers)
+Axiom (RationalNumbersEqualIntegersDividedByNonZeroIntegers)
   Suppose
     p:Integer
     q:NonZeroInteger
   Hence
     p/q = p ÷ q
-
-# This needs to be fixed, the duplicate label is not working properly.
-Axiom (PredecessorsOfSuccessorsNaturalNumbers)
-  Suppose
-    n:NaturalNumber
-  Hence
-    predecessor(successor(n)) = n
