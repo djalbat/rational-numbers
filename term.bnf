@@ -5,7 +5,7 @@
 
              rationalNumber  ::=  integer<NO_WHITESPACE>"/"<NO_WHITESPACE>integer
 
-                               |  typeName
+                               |  [name]
 
                                ;
 

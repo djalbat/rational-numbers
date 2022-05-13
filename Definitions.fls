@@ -2,7 +2,7 @@ Constructor Integer/Integer:RationalNumber
 
 Type NonZeroInteger:Integer
 
-Variables p,q:RationalNumber
+Variables p,q:Integer
 
 Axiom (RationalNumbersEqualIntegersDividedByNonZeroIntegers)
   Suppose
