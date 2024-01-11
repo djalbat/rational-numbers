@@ -1,0 +1,7 @@
+{
+  "version": "0.0.0",
+  "repository": "https://github.com/djalbat/rational-numbers",
+  "dependencies": {
+    "integers": "0.0"
+  }
+}
