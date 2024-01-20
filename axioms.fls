@@ -1,0 +1,9 @@
+Variable p
+Variable q
+ 
+Axiom (RationalNumbersEqualIntegersDividedByNonZeroIntegers)
+  Suppose
+    p:ℤ
+    q:ℤ\{0}
+  Then
+    p/q = p ÷ q
