@@ -1,0 +1,37 @@
+Variable n
+Variable z
+
+Variable p
+Variable q
+Variable r
+
+Axiom (RationalNumbersEqualIntegersDividedByNonZeroIntegers)
+  Suppose
+    p:ℤ
+    q:ℤ\{0}
+  Then
+    p/q = p ÷ q
+
+Axiom (NonZeroRealNumberInfersNotZero)
+  Suppose
+    r:ℝ\{0}
+  Then
+    r ≠ zero
+
+Axiom (NonZeroRationalNumberInfersNotZero)
+  Suppose
+    q:ℚ\{0}
+  Then
+    q ≠ zero
+
+Axiom (NonZeroIntegerInfersNotZero)
+  Suppose
+    z:ℤ\{0}
+  Then
+    z ≠ zero
+
+Axiom (NonZeroNaturalNumberInfersNotZero)
+  Suppose
+    n:ℕ\{0}
+  Then
+    n ≠ zero
