@@ -1,9 +1,9 @@
 {
-  "version": "3.1.0",
+  "version": "4.0.0",
   "repository": "https://github.com/djalbat/rational-numbers",
   "dependencies": {
     "numbers": "3.0",
-    "equality": "3.0",
-    "arithmetic": "3.0"
+    "equality": "4.0",
+    "arithmetic": "4.0"
   }
 }
