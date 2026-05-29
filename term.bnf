@@ -1,4 +1,4 @@
 
 
-                       term  ::=  argument<NO_WHITESPACE>"/"<NO_WHITESPACE>argument (30) ;
+                        term  ::=  argument<NO_WHITESPACE>"/"<NO_WHITESPACE>argument (30) ;
 
