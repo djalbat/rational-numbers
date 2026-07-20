@@ -7,9 +7,3 @@ Axiom (RationalNumbersEqualIntegersDividedByNonZeroIntegers)
     q:ℤ\{0}
   Then
     p/q = p ÷ q
-
-Axiom (NonZeroRationalNumberInfersNotZero)
-  Suppose
-    q:ℚ\{0}
-  Then
-    q ≠ 𝘻𝘦𝘳𝘰
